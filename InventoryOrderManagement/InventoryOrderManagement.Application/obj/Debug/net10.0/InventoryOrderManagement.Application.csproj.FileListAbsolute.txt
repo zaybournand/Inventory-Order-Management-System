@@ -1,0 +1,16 @@
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net10.0/InventoryOrderManagement.Application.deps.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net10.0/InventoryOrderManagement.Application.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net10.0/InventoryOrderManagement.Application.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net10.0/InventoryOrderManagement.Core.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/bin/Debug/net10.0/InventoryOrderManagement.Core.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.csproj.AssemblyReference.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.AssemblyInfoInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.AssemblyInfo.cs
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.csproj.CoreCompileInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.sourcelink.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/Inventor.CA490DB9.Up2Date
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/refint/InventoryOrderManagement.Application.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/InventoryOrderManagement.Application.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/obj/Debug/net10.0/ref/InventoryOrderManagement.Application.dll

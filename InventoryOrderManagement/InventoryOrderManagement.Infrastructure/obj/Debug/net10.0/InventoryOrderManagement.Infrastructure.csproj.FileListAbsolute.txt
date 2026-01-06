@@ -1,0 +1,16 @@
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net10.0/InventoryOrderManagement.Infrastructure.deps.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net10.0/InventoryOrderManagement.Infrastructure.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net10.0/InventoryOrderManagement.Infrastructure.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net10.0/InventoryOrderManagement.Core.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/bin/Debug/net10.0/InventoryOrderManagement.Core.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.csproj.AssemblyReference.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.AssemblyInfoInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.AssemblyInfo.cs
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.sourcelink.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/Inventor.1FA5B968.Up2Date
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/refint/InventoryOrderManagement.Infrastructure.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/InventoryOrderManagement.Infrastructure.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/obj/Debug/net10.0/ref/InventoryOrderManagement.Infrastructure.dll

@@ -1,0 +1,12 @@
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/bin/Debug/net10.0/InventoryOrderManagement.Core.deps.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/bin/Debug/net10.0/InventoryOrderManagement.Core.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/bin/Debug/net10.0/InventoryOrderManagement.Core.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.AssemblyInfoInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.AssemblyInfo.cs
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.csproj.CoreCompileInputs.cache
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.sourcelink.json
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/refint/InventoryOrderManagement.Core.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/InventoryOrderManagement.Core.pdb
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/obj/Debug/net10.0/ref/InventoryOrderManagement.Core.dll

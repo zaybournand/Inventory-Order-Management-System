@@ -100,3 +100,5 @@
 /Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Tests/obj/Debug/net10.0/InventoryOrderManagement.Tests.pdb
 /Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Tests/obj/Debug/net10.0/InventoryOrderManagement.Tests.genruntimeconfig.cache
 /Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Tests/obj/Debug/net10.0/ref/InventoryOrderManagement.Tests.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Tests/bin/Debug/net10.0/InventoryOrderManagement.Infrastructure.dll
+/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Tests/bin/Debug/net10.0/InventoryOrderManagement.Infrastructure.pdb

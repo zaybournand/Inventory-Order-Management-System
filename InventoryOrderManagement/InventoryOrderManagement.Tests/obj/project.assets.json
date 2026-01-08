@@ -416,6 +416,19 @@
         "runtime": {
           "bin/placeholder/InventoryOrderManagement.Core.dll": {}
         }
+      },
+      "InventoryOrderManagement.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "InventoryOrderManagement.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InventoryOrderManagement.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryOrderManagement.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -936,12 +949,18 @@
       "type": "project",
       "path": "../InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj",
       "msbuildProject": "../InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj"
+    },
+    "InventoryOrderManagement.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../InventoryOrderManagement.Infrastructure/InventoryOrderManagement.Infrastructure.csproj",
+      "msbuildProject": "../InventoryOrderManagement.Infrastructure/InventoryOrderManagement.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
       "InventoryOrderManagement.Application >= 1.0.0",
       "InventoryOrderManagement.Core >= 1.0.0",
+      "InventoryOrderManagement.Infrastructure >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -978,6 +997,9 @@
             },
             "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj": {
               "projectPath": "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj"
+            },
+            "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/InventoryOrderManagement.Infrastructure.csproj": {
+              "projectPath": "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Infrastructure/InventoryOrderManagement.Infrastructure.csproj"
             }
           }
         }

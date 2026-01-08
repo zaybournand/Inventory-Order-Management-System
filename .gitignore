@@ -1,0 +1,16 @@
+# Build Folders 
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code settings 
+.vscode/
+
+# Mac System Files
+.DS_Store
+
+# Test Results
+TestResults/
+
+# User specific files
+*.user
+*.suo

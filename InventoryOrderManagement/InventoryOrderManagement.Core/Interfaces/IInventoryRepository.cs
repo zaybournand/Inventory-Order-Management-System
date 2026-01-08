@@ -1,10 +1,10 @@
-namespace InventoryOrderManagement.Core.Models;
+namespace InventoryOrderManagement.Core.Interfaces;
 
 using InventoryOrderManagement.Core.Models;
 
-public interface InventoryuRepository
+public interface IInventoryRepository
 {
-    InventoryItem? GetItem(string itemID);
+    InventoryItem? GetItem(string itemId);
     void UpdateItem(InventoryItem item);
     void AddItem(InventoryItem item);
     IEnumerable<InventoryItem> GetAll();

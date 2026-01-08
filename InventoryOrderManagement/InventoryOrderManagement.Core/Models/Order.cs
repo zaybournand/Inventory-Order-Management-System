@@ -1,4 +1,4 @@
-using InventoryOrderManagement.Core.Enums; // Don't forget this for OrderStatus!
+using InventoryOrderManagement.Core.Enums;
 
 namespace InventoryOrderManagement.Core.Models;
 

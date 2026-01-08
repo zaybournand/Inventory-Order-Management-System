@@ -393,6 +393,29 @@
         "build": {
           "build/net8.0/xunit.runner.visualstudio.props": {}
         }
+      },
+      "InventoryOrderManagement.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "InventoryOrderManagement.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/InventoryOrderManagement.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryOrderManagement.Application.dll": {}
+        }
+      },
+      "InventoryOrderManagement.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/InventoryOrderManagement.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/InventoryOrderManagement.Core.dll": {}
+        }
       }
     }
   },
@@ -903,10 +926,22 @@
         "xunit.runner.visualstudio.3.1.4.nupkg.sha512",
         "xunit.runner.visualstudio.nuspec"
       ]
+    },
+    "InventoryOrderManagement.Application/1.0.0": {
+      "type": "project",
+      "path": "../InventoryOrderManagement.Application/InventoryOrderManagement.Application.csproj",
+      "msbuildProject": "../InventoryOrderManagement.Application/InventoryOrderManagement.Application.csproj"
+    },
+    "InventoryOrderManagement.Core/1.0.0": {
+      "type": "project",
+      "path": "../InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj",
+      "msbuildProject": "../InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
+      "InventoryOrderManagement.Application >= 1.0.0",
+      "InventoryOrderManagement.Core >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 17.14.1",
       "coverlet.collector >= 6.0.4",
       "xunit >= 2.9.3",
@@ -937,7 +972,14 @@
       "frameworks": {
         "net10.0": {
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/InventoryOrderManagement.Application.csproj": {
+              "projectPath": "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Application/InventoryOrderManagement.Application.csproj"
+            },
+            "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj": {
+              "projectPath": "/Users/zaynebournand/Inventory-Order-Management-System/InventoryOrderManagement/InventoryOrderManagement.Core/InventoryOrderManagement.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

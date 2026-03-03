@@ -52,3 +52,6 @@ Run the application using the dotnet CLI:
 ```bash
 dotnet run --project InventoryOrderManagement.ConsoleApp
 ```
+## 📬 Contact
+
+📧 zaybournand@gmail.com
